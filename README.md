@@ -1,4 +1,4 @@
-# Simple CLI Chatbot
+# Simple Chatbot
 
 This is a minimal command-line chatbot built using Hugging Face
 Transformers.\
